@@ -1,0 +1,4 @@
+com\myndsai\handler\WikimediaChangesHandler.class
+com\myndsai\config\KafkaTopicConfiguration.class
+com\myndsai\kafka\WikimediaChangesProducer.class
+com\myndsai\SpringBootProducerApplication.class
